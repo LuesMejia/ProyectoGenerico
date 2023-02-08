@@ -25,11 +25,10 @@
     </head>
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
-            
             <!DOCTYPE html>
             <div class="wrapper">
         <nav class="navbar">
-            <img class="logo" src="">
+            <img class="logo" src="{{ asset('css/diseño1.css') }}">
             <ul>
                 <li><a href="">Inicio</a></li>
                 <li><a href="">Acerca de</a></li>

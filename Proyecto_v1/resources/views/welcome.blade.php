@@ -31,7 +31,7 @@
             <img class="logo" src="{{ asset('css/diseño1.css') }}">
             <ul>
                 <li><a href="">Inicio</a></li>
-                <li><a href="">Acerca de</a></li>
+                <li><a href="">Quienes somos?</a></li>
                 <li><a href="#">Servicios</a></li>
                 <li><a href="">Contactos</a></li>
                
